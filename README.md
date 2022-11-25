@@ -7,3 +7,7 @@
 
 Browser bad text
 UPPERCASE
+
+## Картинки
+Это яблоко
+![Это яблоко](apple.jpg)
